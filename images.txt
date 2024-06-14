@@ -3,3 +3,4 @@ python
 nyanmisaka/jellyfin
 circleci/jdk8
 java
+dockette/jdk8
