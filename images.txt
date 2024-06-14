@@ -1,6 +1,4 @@
 nginx
-python
-ddns-go
-tomcat
-mysql
+
 jdk
+python
