@@ -2,3 +2,5 @@ nginx
 python
 nyanmisaka/jellyfin
 dockette/jdk8
+acgpiano/sqli-labs
+
